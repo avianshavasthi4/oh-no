@@ -1,1 +1,2 @@
-# oh-no
+# collisionAlgorithm
+Algorithm to detect collision between two objects
